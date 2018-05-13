@@ -78,3 +78,5 @@ CUSTOM_MATRIX = yes    # Custom matrix file for the HHKB
 # debug-off: EXTRAFLAGS += -DNO_DEBUG -DNO_PRINT
 # debug-off: OPT_DEFS := $(filter-out -DCONSOLE_ENABLE,$(OPT_DEFS))
 # debug-off: all
+
+LAYOUTS = hhkb
